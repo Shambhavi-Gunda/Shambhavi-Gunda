@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Im4q85F7I_5UevHWO9U3RNrFlH02Sbu4/view](https://drive.google.com/file/d/1Im4q85F7I_5UevHWO9U3RNrFlH02Sbu4/view)
 
+- ⚡ Fun fact **I love public speaking and I hosted and conducted events in my college such as MUNs and debates etc.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shambhavi-gunda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shambhavi-gunda" height="30" width="40" /></a>
