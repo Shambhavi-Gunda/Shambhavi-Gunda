@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shambhavi</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **NLP,CV**
+- 🌱 I’m currently learning **FASTAPI,JAVASCRIPT**
 
-- 💬 Ask me about **AI,ML,PowerBi,DL,Data Analysis.**
+- 💬 Ask me about **AI,ML,JAVA,DL,Data Analysis.**
 
 - 📫 How to reach me **shambhavi.gunda@gmail.com**
 
