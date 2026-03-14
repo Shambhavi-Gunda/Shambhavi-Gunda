@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shambhavi</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🌱 I’m currently learning **FASTAPI,JAVASCRIPT**
+- 🌱 I’m currently learning **FASTAPI,NODE.JS**
 
 - 💬 Ask me about **AI,ML,JAVA,DL,Data Analysis.**
 
